@@ -20,6 +20,6 @@ At this time, there are no known bugs. If you see spot a bug feel free to make a
 
 ## Licensing
 
-Copyright (c) _2020_ Eric Stratton, Garret Brown, Austin Schrader
+Copyright (c) _2020_ Eric Stratton, Taylor Delph
 
 Licensed under MIT
